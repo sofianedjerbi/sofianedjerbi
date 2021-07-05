@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://kugge.github.io/">
+<a href="https://kugge.github.io/" target="_blank">
 <p align="center">
   <table border="0"  style="border: 0;">
   <tr>
