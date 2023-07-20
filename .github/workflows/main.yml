@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
+          REPOSITORY: kugge/kugge
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
