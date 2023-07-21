@@ -2,9 +2,10 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -13,3 +14,11 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "False"
