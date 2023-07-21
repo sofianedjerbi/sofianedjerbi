@@ -5,4 +5,9 @@ I'm a quick learner and always open to new challenges and opportunities.
 My primary focus is on development, but I also dabble in system administration.  
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
