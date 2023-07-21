@@ -6,7 +6,7 @@ My primary focus is on development, but I also dabble in system administration.
 
 <!--START_SECTION:waka-->
 
-```txt
+```all_time
 No activity tracked
 ```
 
