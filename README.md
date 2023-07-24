@@ -1,13 +1,5 @@
-# 👋 Hello, World!
-**Welcome!** I'm Sofiane H. Djerbi (`@Kugge`).  
-I'm a passionate developer who loves to build and create awesome software.  
-I'm a quick learner and always open to new challenges and opportunities.  
-My primary focus is on development, but I also dabble in system administration.  
-
-<!--START_SECTION:waka-->
-
-```all_time
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kugge&theme=github"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kugge&theme=github"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kugge&theme=github"/>
+</p>
